@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 place : villupuram
+=======
+place : Chennai
+data engineering 
+testing
+training
+>>>>>>> Newbranch
