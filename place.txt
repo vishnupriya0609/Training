@@ -1,1 +1,4 @@
-place : chennai
+place : Chennai
+data engineering 
+testing
+training
