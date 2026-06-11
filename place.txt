@@ -1,8 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 place : villupuram
 =======
+=======
+>>>>>>> 840879f9d6a6ce44ab984c66a0e39ad082bb01de
 place : Chennai
 data engineering 
 testing
 training
+<<<<<<< HEAD
 >>>>>>> Newbranch
+=======
+place : villupuram
+>>>>>>> 840879f9d6a6ce44ab984c66a0e39ad082bb01de
